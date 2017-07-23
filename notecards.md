@@ -1,7 +1,7 @@
-## Notecard Thoughts
-Earlier this year I started writing down thoughts that struck me on 3x5 notecards. I like to flip through them. Here they are, so you can flip through them, too. It's also a pretty good way to see what I've been reading.
+## Note Card Thoughts
+Earlier this year I started writing down thoughts that struck me on 3x5 note cards. I like to flip through them. Here they are, so you can flip through them, too. It's also a pretty good way to see what I've been reading.
 
-### 2017 Notecards
+### 2017 Note cards
 
 |Quote|Source|
 | ------ | ------ |
@@ -53,7 +53,7 @@ The world is what we believe it to be.||
 When someone chooses the comparison for you, be sure to come up with your own before making a decision.||
 Today's prices more closely resemble high-frequency trading.||
 Hire good people and trust them. Quickly admit mistakes and scramble out of them. Remove ignorance by always learning.||
-We increase the imporance of something as soon as we start thinking about it or paying it attention - whether it's important or not.||
+We increase the importance of something as soon as we start thinking about it or paying it attention - whether it's important or not.||
 Those who lie for you, will lie to you.||
 When authorities argue, especially in public, it undermines the authority they're known for. People are most persuaded by a consensus of experts.||
 The fear of scarcity can persuade us to do something we might have otherwise put off - or not done at all.||
@@ -75,7 +75,7 @@ Clickbait is digital heroin. ||
 Of all a person's resources, time is the one thing inexorably diminishing. If only wasting time was seen as bad as wasting money.||
 50 years ago, anybody could be "smart". Today, if you're wealthy, it's assumed that you're "smart". If you're poor, it's assumed that you are "dumb." Intelligence predicates status.||
 It is difficult to find happiness within oneself, but it is impossible to find it anywhere else."|Arthur Schopenhauer|
-AI may be about to hit a J-curve, and accelerate the destructiive impact on the job market as we know it.  Or, it isn't. The future is hard.||
+AI may be about to hit a J-curve, and accelerate the destructive impact on the job market as we know it.  Or, it isn't. The future is hard.||
 High IQ is luck. Smarts are not earned. It's a gift.||
 Clinton's "deplorables comment change the history of the world by peeling off the veil of the contempt for the uneducated."|Charles Murray|
 SAT was an effective brain drain from the hinterlands over generations. ||
@@ -86,7 +86,7 @@ Just because we agree that the genders are not better than one another, doesn't 
 You cannot make any meaningful social assumptions about a person merely going off race, gender...really any of them.|Charles Murray|
 There is much more variety within genetic populations than there are between the groups.||
 If you're going to be upset at The Bell Curve, then you have to defend the idea that the differences between the genetic populations is 100% environmental.|Charles Murray|
-The SAT was invented to give kids who hadn't gone to a "good" grade school the chance to get into a good university (specifically Harvard). Side effect is identifiying smart people.||
+The SAT was invented to give kids who hadn't gone to a "good" grade school the chance to get into a good university (specifically Harvard). Side effect is identifying smart people.||
 The role of IQ in explaining success is the same as the role of weight in NFL offensive linemen.||
 "Frightened people do not make good Republicans or Democrats."|Michael V. Hayden|
 "Know how songs get stuck in your head? Same thing happens with thoughts. Be careful."|Naval Ravikant|
@@ -127,7 +127,7 @@ Manage your environment or it will manage you.||
 For a company, community, or country to come together, it needs a common goal or foe. Preferably a foe.||
 Don't automate black boxes.||
 Complicated != complexity.||
-"The intuitive mind is a sacred gift, and the rational mind is a faithful servnt. We have created a society that honors the servant and has forgotten the gift."|Albert Einstein|
+"The intuitive mind is a sacred gift, and the rational mind is a faithful servant. We have created a society that honors the servant and has forgotten the gift."|Albert Einstein|
 Don't forget to think about what might be hiding in the negative space.||
 "Give me a list of pros and cons." All that does is show the risks, but not the uncertainty. This does not lend itself to allow for heuristics.||
 Risk + Uncertainty = adaptive toolbox. Know what heuristic to use in which environment. Can be a combination.||
@@ -153,9 +153,9 @@ Be suspicious of your beliefs if they form neat packages. Some of them were like
 The reliability of the total system is less than that of the least reliable component.||
 Technology reliability x human reliability = system reliability. TR x HR = SR.||
 Rejecting risk instead makes life riskier.||
-"Arbitrary" means different things. In science, it is a non-negative decision to get on with the work. In social activisim, it is derived from mere opinion; capricious; not limited by law; absolute, despotic.||
+"Arbitrary" means different things. In science, it is a non-negative decision to get on with the work. In social activism, it is derived from mere opinion; capricious; not limited by law; absolute, despotic.||
 We get what we reward for.||
-I read to learn from the mistakes and triumphs of others. Doing it all by myself seems terribly ineffecient.||
+I read to learn from the mistakes and triumphs of others. Doing it all by myself seems terribly inefficient.||
 System 1 uses the Interpreter. System 2's job (part of it) is to fact-check the Interpreter. It needs time to do that, though.||
 Favor something? Work through the impact of implementing it. Anything different?||
 Disagree with an effect? Determine the intent of the implementation. Anything different?||
@@ -169,14 +169,14 @@ If you're going to throw things at the wall to see what sticks (this is ineffici
 Doing what everyone else does and banking on different results means on is counting on black/white swans. Seems inefficient.||
 Surface knowledge is just that: superficial. Cheap. It's what everyone else has got. So, by definition, average.||
 Engineering breakpoints: blow a fuse instead of catching the house on fire.||
-Beware contrast misreaction - compare apples to themselves.||
+Beware contrast mis-reaction - compare apples to themselves.||
 Get the incentives right.||
 Only 20% of people can be in the top fifth.||
 If you play games where other people have the aptitudes and you don't, then you will lose|Charlie Munger|circle of competence
 Show how much it will save, and how much will flow to the bottom line - and how much will flow straight to customers.||
 Technology cost-savings isn't going to move the needle much if that tech is available to all of your competitors.||
 Avoid people and places that punish new ideas.||
-Bad attitudes is because of bad leadership. Shitty employee attitudes is not indicitave of bad employees, bad working environments, or even bad customers. It's indicitave of shitty leadership.||
+Bad attitudes is because of bad leadership. Shitty employee attitudes is not indicative of bad employees, bad working environments, or even bad customers. It's indicative of shitty leadership.||
 A Dunkin Donuts will probably not go out of business. You'd almost have to try to kill it.  Even then, it would fight you.||
 A person who blows up when learning about negative things will eventually only be told about positive things. This is not good if that person is in charge, because then their reality will be false.||
 Learn to recognize antipathy upon hearing things I don't like, and to look past that antipathy.||
@@ -216,13 +216,13 @@ Thinking means concentrating on something long enough to develop an idea about i
 Attention residue after switching tasks increases drag.|Sophie Leroy|
 "A little learning is a dangerous thing." Quick reads do not impart understanding. If everyone spend the same five minutes to understand something, everyone has the same shitty understanding.||
 It's easier to observe change on the micro level than the macro.||
-"Nobody reaches enlightment or internal happiness or does serious internal work in group settings."|Naval Ravikant|
+"Nobody reaches enlightenment or internal happiness or does serious internal work in group settings."|Naval Ravikant|
 "Happiness is a single-player game."|The Happy Philosopher|
-"The advantage of meditation is not that you're going to suddenly gain the superposer to control your internal state, it's that you will recognize just how out of control your mind is."|Naval Ravikant|
+"The advantage of meditation is not that you're going to suddenly gain the superpower to control your internal state, it's that you will recognize just how out of control your mind is."|Naval Ravikant|
 My core values: #1: Honesty. #2: Anger is useless. Go be angry at someone else somewhere else. #3: Don't go looking for stress. #4: Find what brings me joy, and do that.||
 If the mind is a muscle, I should be careful about what activity I'm training it to do.||
 If I have an algorithm that predicts how people will respond to something I might say, how will that affect my speech, thoughts, priorities? What unintended consequences will happen because of such a thing?||
-Reading Facebook to gain deep understanding is like plunging your head into a pail of diarhhea. There are more efficient methods to filter truth from shit.||
+Reading Facebook to gain deep understanding is like plunging your head into a pail of diarrhea. There are more efficient methods to filter truth from shit.||
 I saw "fake news crisis" in an article today. Could be replaces instead with "foundational knowledge crisis."||
 Just because X is similar to Y, the occurrence of X does not increase the probability of Y.||
 Be aware of what you're trained to see.||
@@ -233,7 +233,7 @@ Beware the tyranny of the job description.||
 "Meeting the requirements is easier than doing the job right."|Garrett Hardin|
 When a topic is taboo, or considered "settled" and viewed off-limits, it affords someone with questions no alternatives but to seek out those who will talk about it - and those who will speak about it usually hold the minority view.||
 The "everything is connected to everything else" is nose/wedge/slope in disguise - ecolate in fashion but not numerate. Invalid when taken to extremes.||
-Our actions indicate we are willing to take risks, and thereboy invalidate the nose/wedge/slope laws or ideas.||
+Our actions indicate we are willing to take risks, and thereby invalidate the nose/wedge/slope laws or ideas.||
 "We can never do merely one thing."|Garrett Hardin|
 What parts of a problem are causes, which are symptoms, which are related, which are unrelated, which are roots, which are blockers, which are systemic, which are patterns.||
 Post-mortems: If I had time to properly analyze results and find ways to get better, I would actually BE better.||
