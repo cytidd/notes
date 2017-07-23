@@ -1,0 +1,242 @@
+## Notecard Thoughts
+Earlier this year I started writing down thoughts that struck me on 3x5 notecards. I like to flip through them. Here they are, so you can flip through them, too. It's also a pretty good way to see what I've been reading.
+
+### 2017 Notecards
+
+|Quote|Source|
+| ------ | ------ |
+If liberty is denied to anyone, it could eventually be denied to you.|Abraham Lincoln|
+Perpetual itching without the benefit of scratching to the enemies of America!|patriots' toast, Worcester MA|
+"An important clue to live 'a' good life is to not try to live 'the' good life."|John G. Roberts, Jr - Chief Justice|
+Don't design for reuse. NASA doesn't.||
+Making the same decision and hoping for a different result? Instead of asking "what's new this time", don't forget to ask "what's the same?"||
+Can it be an airplane without wings?||
+About to make a decision? Ask yourself "How am I fooling myself here?"||
+Happiness is contentment with reality as I perceive it to be.||
+The world is multi-disciplinary. Knowledge must be as well.||
+People don't follow titles.||
+Ensure you are the one selecting the tool for the right reason, and not because you are enamored with the tool right then.||
+Checklists discourage actual thinking.||
+If problem-framing is a group exercise, ensure all members are not from the same discipline.||
+"As an X, I want to be able to Y" stories will be more effective if X is actually an X, not an engineer pretending to be X.||
+"The elevator is too slow" could be "The wait is annoying".  Statements do not exist in a vacuum. Solve for the intent.||
+Define the problem in alternative ways, to ensure it isn't the same problem that's already been solved.||
+Correctly framing the problem should be done before attempting to solve it. You can't solve your way out of bad design.||
+You're free to your own opinion, so long as you are willing to be culturally ostracized by your peers.||
+Muslims need to feel safe in the U.S. If not, then they will further retreat into fundamentalism.||
+The Koran is God speaking. The Bible is a game of telephone. (harder to play textual games with the Koran).||
+Immigration unrestricted, creates cultural enclaves in the host country, and is incredibly reckless. "Germany will not be the same Germany."|Sarah Haider|
+Islam is the not the same as a Muslim.||
+Ex-Muslims wish their situation was as nice as being an ex-Mormon.||
+"Offense is a symptom of not having an argument."|Sam Harris|
+"Leave undone whatever you hesitate to do."|Yoshida Kenko|
+If I don't know my own value, I will let others define it for me. Trouble is, they might be assholes.||
+"We need to get off the X"|Michael V. Hayden|
+Factorio subjects my brain to a "load this complex system in my head at once" scenario, which overwhelms my brain's sense of time.||
+"Science and the public have separated so much that the public considers science as just another opinion."|Alan Alda|
+"You've worn me down" is a terrible decision-making process.  Recognize mis-alignment and escalate.||
+Disagree and commit. You don't have to agree to commit to something. Don't be the blocker.||
+Do we own the process, or does the process own us?||
+Always treat your day like it's Day 1. Once you get to Day 2, you're going to relax and rest on your laurels. "It's always Day 1."|Jeff Bezos|
+"Without a good question, a good answer has no place to go."|Clayton Christensen|
+Requirements: solve for the WHY and not the WAY.||
+It's not "requirements gathering," it's "requirements digging."||
+The metaphor of software construction as building is wrong. Use gardening instead.||
+"The limits of language are the limits of one's world."|Ludwig Wittgenstein|
+Broken Window Theory: People lose the will to fight because they think no one else cares.|Pragmatic Programmer|
+People find it easier to join an ongoing success. Show them a glimpse of the future and you'll get them to rally around.|Pragmatic Programmer|
+"The greatest of all weaknesses is the fear of appearing weak."|J.B. Bossuet|
+We who cut stones must always be envisioning cathedrals.||
+"...people prefer reassurance to research."|Neil deGrasse Tyson|
+The world is what we believe it to be.||
+"What the human being is best at is interpreting all new information so that their prior conclusions remain intact."|Warren Buffett|
+When someone chooses the comparison for you, be sure to come up with your own before making a decision.||
+Today's prices more closely resemble high-frequency trading.||
+Hire good people and trust them. Quickly admit mistakes and scramble out of them. Remove ignorance by always learning.||
+We increase the imporance of something as soon as we start thinking about it or paying it attention - whether it's important or not.||
+Those who lie for you, will lie to you.||
+When authorities argue, especially in public, it undermines the authority they're known for. People are most persuaded by a consensus of experts.||
+The fear of scarcity can persuade us to do something we might have otherwise put off - or not done at all.||
+Beware the tyranny of "because". Don't handicap yourself right from the start by introducing causality.||
+"We are getting ready to colonize Mars, and we cannot agree on what would be healthy food to take for the trip."|Sam Harris|
+Remember the Gordian Knot Solution. (cut the knot)||
+Reliability cannot be purchased.||
+Urgent and important? If it takes less than 15 minutes, do it now.||
+Ensure that your #1 skill is not your ability to say "no".||
+Decisions don't happen in a vacuum. There's always an "and then what." Follow the thread (minus spirals)||
+Get 5% better annually. Or, every day I want to be less dumb.||
+There are more than two sides.||
+Deliberate innovation requires thinking. If you do not allow time for thinking, any innovation will be stumbled over by dumb luck.||
+Invert. Always invert.|Charlie Munger|
+Soundbites are surface knowledge. Topsoil. Easily blown away.||
+Not only do we need to filter, we need to be aware of what filters our information has already been through.||
+Explain one instance of clickbait that changed your life. I'll wait.||
+Clickbait is digital heroin. ||
+Of all a person's resources, time is the one thing inexorably diminishing. If only wasting time was seen as bad as wasting money.||
+50 years ago, anybody could be "smart". Today, if you're wealthy, it's assumed that you're "smart". If you're poor, it's assumed that you are "dumb." Intelligence predicates status.||
+It is difficult to find happiness within oneself, but it is impossible to find it anywhere else."|Arthur Schopenhauer|
+AI may be about to hit a J-curve, and accelerate the destructiive impact on the job market as we know it.  Or, it isn't. The future is hard.||
+High IQ is luck. Smarts are not earned. It's a gift.||
+Clinton's "deplorables comment change the history of the world by peeling off the veil of the contempt for the uneducated."|Charles Murray|
+SAT was an effective brain drain from the hinterlands over generations. ||
+Intelligence is hereditary, and is stronger the older the parent.||
+"We are doing enormous harm to young people by making it harder to treat them as individuals."|Charles Murray|
+For how many people is their #1 focus in their job to appear busy? How are they incentivized to have ideas if their environment is basically telling them that their ideas are worthless? How much is lost by suppressing the best-positioned idea generators?||
+Just because we agree that the genders are not better than one another, doesn't mean we think that they do not have differences.||
+You cannot make any meaningful social assumptions about a person merely going off race, gender...really any of them.|Charles Murray|
+There is much more variety within genetic populations than there are between the groups.||
+If you're going to be upset at The Bell Curve, then you have to defend the idea that the differences between the genetic populations is 100% environmental.|Charles Murray|
+The SAT was invented to give kids who hadn't gone to a "good" grade school the chance to get into a good university (specifically Harvard). Side effect is identifiying smart people.||
+The role of IQ in explaining success is the same as the role of weight in NFL offensive linemen.||
+"Frightened people do not make good Republicans or Democrats."|Michael V. Hayden|
+"Know how songs get stuck in your head? Same thing happens with thoughts. Be careful."|Naval Ravikant|
+"The probability of loss is no more measurable than the probability of rain."|Howard Marks|
+Cause and effect chains have a hard time with the random chance element. It's never A+B=C. It's A+B+a whole alphabet=C||
+High probabilities are likely lower than we think. More probable, sure, but not by all that much.||
+The worst way to fight your animal brain is to take it head-on. Come at it sideways.||
+Wait, what? I wonder...? Couldn't we at least...? How can I help? What truly matters?|James Ryan|
+Pause. Think. Act. In that order||
+"If it is not necessary to decide, it is necessary to not decide."|Lord Acton|
+Competition is fierce to be just average.||
+If you're using more than two reasons in a pro or con column, you are likely trying to convince yourself.||
+A company's culture has a greater chance of surviving if the distance between the bottom and top is short. In both pay and rungs on the ladder.||
+Playing the same game as everyone else is going to get you the same results as everyone else. Play a different game.||
+Agile is commonism - it assumes developers don't get jealous.||
+Don't let users specify answers. They don't know what the actual problem is.||
+Features are not objectives. They are results, and they may not completely solve the problem. Avoiding problems != solving problems.||
+Maintenance Windows should be mid-day. Most engineers aren't around at night, and if they are, they probably aren't in any condition to fix anything.||
+Don't offer an SLA greater than the SLAs of any of your dependencies.||
+Breaking things on purpose is preferable to things breaking unexpectedly||
+Testing in a testing environment that does not mirror production exactly gives a false sense of security.||
+What isn't tested in production will not work.||
+What we considered improbable becomes mathematically probable as we scale.||
+Best way to test the failure path is to never shut down the service normally. Just hard-fail it.|Armando Fox|
+Can distributed data behave like a quorum when queried?||
+You can't parallel process the same atomic data source.||
+Order is not a natural state.||
+It's okay to accept that I am not perfect. It's not okay to allow my flaws to excuse my actions.||
+Three truths of business: #1: How many customers repeat? #2: How often do they repeat? #3: The rest of your business is just a support system for #1 and #2||
+Want to overcome your shortcomings? Compare yourself against the best.||
+Want to change someone's mind? Give them a new narrative.||
+"It is difficult to remove by logic an idea that was not placed by logic in the first place."||
+Why did the person do X? The answer will always be an over-simplification of reality.||
+"The person who says he knows what he think but cannot express it usually does not know what he thinks."|Mortimer Adler|
+Risk being wrong.||
+Job prerequisites: integrity, reliability, energy, intelligence, persistance, social skills. In that order. If they don't have the first one, it doesn't matter how stacked they are in the rest.||
+Manage your environment or it will manage you.||
+For a company, community, or country to come together, it needs a common goal or foe. Preferably a foe.||
+Don't automate black boxes.||
+Complicated != complexity.||
+"The intuitive mind is a sacred gift, and the rational mind is a faithful servnt. We have created a society that honors the servant and has forgotten the gift."|Albert Einstein|
+Don't forget to think about what might be hiding in the negative space.||
+"Give me a list of pros and cons." All that does is show the risks, but not the uncertainty. This does not lend itself to allow for heuristics.||
+Risk + Uncertainty = adaptive toolbox. Know what heuristic to use in which environment. Can be a combination.||
+You are dealing with risk when you know the alternatives. You are dealing with uncertainty when you don't know all the alternatives, outcomes, or their probabilities.||
+There are no traffic jams on the extra mile.||
+Like a sand castle collapses into a wave of individual grains, so does wealth into poverty. It is the Second Law of Thermodynamics.||
+Poverty is humanity's natural state, yet incredible amounts of energy is expended trying to decide who's to blame for it.||
+If a system's natural tendency is to break down, then that means staying in a working state is improbable. Order is improbable, without intervention.||
+Get a lot of criticism? Transform it into a checklist for improvement.||
+The first step in learning from failure is to avoid treating one like a disaster. A meteor smaking into a city is a disaster. If nobody died, it's probably not a disaster.||
+"Plans are useless, but planning is indispensable."|Dwight Eisenhower|
+Be suspicious of anyone who claims to have a grand plan. They probably have a 5 or 10 year plan they'd like to show you.||
+Multi-year plans are okay if they're specific. "Release product x." Not "be a leader in market segment Y."||
+"You must study the endgame before you everything else."|Grandmaster Jose Raul Capablanca|
+If your product requires help from marketing or salespeople to convince people of its worth, then it's not good enough.||
+Out of all avenues attempted in problem solving, the innovation is the thing that worked. I'd rather be labelled a "creative thinker" than an innovative one, because the latter implies that I come up with working solutions all of the time.||
+Gorillas are the market leaders. Chimps promote different product approach to the same customers. Monkeys attempt to clone gorillas at a lower price and exaggerated performance claims.||
+Delighting the customer always yields better results than countering or copying a competitor. It's just a lot harder to do.||
+To determine if future self would want to do something, ask present self if you'd like to do it right now. If the answer is not "Hell, yes!" then the proper response is "Hell, no!"||
+"What if" yourself to death = living in delusions of the future at the expense of the present.||
+"Most of the time, we're dreaming at ourselves."|Naval Ravikant|
+Be suspicious of your beliefs if they form neat packages. Some of them were likely wrapped by somebody else.||
+The reliability of the total system is less than that of the least reliable component.||
+Technology reliability x human reliability = system reliability. TR x HR = SR.||
+Rejecting risk instead makes life riskier.||
+"Arbitrary" means different things. In science, it is a non-negative decision to get on with the work. In social activisim, it is derived from mere opinion; capricious; not limited by law; absolute, despotic.||
+We get what we reward for.||
+I read to learn from the mistakes and triumphs of others. Doing it all by myself seems terribly ineffecient.||
+System 1 uses the Interpreter. System 2's job (part of it) is to fact-check the Interpreter. It needs time to do that, though.||
+Favor something? Work through the impact of implementing it. Anything different?||
+Disagree with an effect? Determine the intent of the implementation. Anything different?||
+If a mob relies on baseless opinion, it is confirmation bias writ large.||
+The division of cognitive labor is useful for things like flush toilets, combustion engines, and air-conditioning. It is less useful on decisions that require deep understanding - political, economic, things that affect large groups.||
+When learning something new, always understand the motivations of the information's author.||
+7 characteristics of highly-resilient people: optimism, decisive action, honesty, tenacity, interpersonal connectedness, self-control, calmly innovative, non-dogmatic thinking.||
+Long-term plans take on a life of their own and don't map to reality. We're more apt to hang on because to change it would be the same as admitting we're wrong.||
+Someone in your company keeps trying to make 5-10 year plans? FIRE THEM IMMEDIATELY.||
+If you're going to throw things at the wall to see what sticks (this is inefficient), at least make sure the variables don't conflict with each other.||
+Doing what everyone else does and banking on different results means on is counting on black/white swans. Seems inefficient.||
+Surface knowledge is just that: superficial. Cheap. It's what everyone else has got. So, by definition, average.||
+Engineering breakpoints: blow a fuse instead of catching the house on fire.||
+Beware contrast misreaction - compare apples to themselves.||
+Get the incentives right.||
+Only 20% of people can be in the top fifth.||
+If you play games where other people have the aptitudes and you don't, then you will lose|Charlie Munger|circle of competence
+Show how much it will save, and how much will flow to the bottom line - and how much will flow straight to customers.||
+Technology cost-savings isn't going to move the needle much if that tech is available to all of your competitors.||
+Avoid people and places that punish new ideas.||
+Bad attitudes is because of bad leadership. Shitty employee attitudes is not indicitave of bad employees, bad working environments, or even bad customers. It's indicitave of shitty leadership.||
+A Dunkin Donuts will probably not go out of business. You'd almost have to try to kill it.  Even then, it would fight you.||
+A person who blows up when learning about negative things will eventually only be told about positive things. This is not good if that person is in charge, because then their reality will be false.||
+Learn to recognize antipathy upon hearing things I don't like, and to look past that antipathy.||
+Companies: be #1 or #2 or out.||
+The Five W's: Tell who to do what, when, where, and why.||
+A few mistakes in 100 small decisions is better than one mistake when you're making few, big decisions.||
+Setbacks are teachable moments.||
+Acquiring wisdom is a moral duty.||
+Be reliable. Unreliability can cancel out the other virtues.||
+Avoid intense ideologies. Remember the Scandanavian Canoeists. Avoid big whirlpools.|Charlie Munger|
+Get rid of envy, resentment, self-pity, and self-serving bias. They do not help.||
+"Unless you're going to do a 100%, 24/7, wholesale swap with someone else, there's no use in being jealous of them."|Naval Ravikant|
+Sit down and do it until it is done.|Neil Gaiman|
+Reverse a challenge: state the challenge, list the assumptions, challenge each one, reverse each assumption, record differing viewpoints, how to accomplish each reversal?||
+Just because someone asks for a knob, doesn't mean there has to be a door.  It might be better to leave the door - and the knob - out completely.|Thinkertoys|
+Be suspicious of the measuring stick.|Thinkertoys|
+Don't stop at the first answer. Stop when you cannot think of any more answers.|Thinkertoys|
+A new idea is the same thing everyone else is looking at, just in a new pattern.|Thinkertoys|
+If you don't know how it will be used, then you don't know how to build it.||
+What is the end state? Who will use it in this state? In what way will they enjoy using it? What would frustrate them about it? = problem framing||
+Don't be a Duke of Habit.|Thinkertoys|
+Solve problems backwards. Visualize the end state, and then identify blockers. Ensure you are not one of them. If you cannot get out of your own way, it won't matter if you fix everything else. You'll still fail.||
+Avoiding stupidity is easier than seeking brilliance.|Charlie Munger (and others)|
+Reducing stressors actually enhances fragility.||
+Hofstatder's Law: It will always take longer than you think, even after taking Hofstatder's Law into account.||
+Hanlon's Razor: That which can be attributed to malice might instead be attributed to stupidity.||
+The brain is a collection of grouped systems that perform specific functions. There is no I. Might be a "we", though.||
+The unified mind merges from the thousands of lower-level processes operating in parallel.||
+A thing happens, we react, we feel something about it, and then we go on explaining it. That's the Interpreter. It will create context where there is none, fabricating a fiction all day long before ever admitting "I don't know."||
+The Interpreter does not perform any data validation. Garbage in? Garbage out.||
+Success isn't found. It's engineered.||
+When a unit of measure becomes a target, it ceases to be a useful unit of measure.||
+"If one takes away riches from a wise man, one leaves him still in possession of all that is his..."|Seneca|
+Importance != urgency. Remember the Eisenhower matrix.||
+Practice deliberately. Not knowing the goal reduces the ability to deliver. Focused attention, immediate feedback, rest. Focus is required for increased intensity, rest allows for insights from focus work.||
+Thinking means concentrating on something long enough to develop an idea about it.||
+Attention residue after switching tasks increases drag.|Sophie Leroy|
+"A little learning is a dangerous thing." Quick reads do not impart understanding. If everyone spend the same five minutes to understand something, everyone has the same shitty understanding.||
+It's easier to observe change on the micro level than the macro.||
+"Nobody reaches enlightment or internal happiness or does serious internal work in group settings."|Naval Ravikant|
+"Happiness is a single-player game."|The Happy Philosopher|
+"The advantage of meditation is not that you're going to suddenly gain the superposer to control your internal state, it's that you will recognize just how out of control your mind is."|Naval Ravikant|
+My core values: #1: Honesty. #2: Anger is useless. Go be angry at someone else somewhere else. #3: Don't go looking for stress. #4: Find what brings me joy, and do that.||
+If the mind is a muscle, I should be careful about what activity I'm training it to do.||
+If I have an algorithm that predicts how people will respond to something I might say, how will that affect my speech, thoughts, priorities? What unintended consequences will happen because of such a thing?||
+Reading Facebook to gain deep understanding is like plunging your head into a pail of diarhhea. There are more efficient methods to filter truth from shit.||
+I saw "fake news crisis" in an article today. Could be replaces instead with "foundational knowledge crisis."||
+Just because X is similar to Y, the occurrence of X does not increase the probability of Y.||
+Be aware of what you're trained to see.||
+"Wherever there is uncertainty, there is judgement, and wherever there is judgement there is an opportunity for human fallibility."|Redelmeir|
+Does insurance increase the likelihood of an insured event occurring?||
+The theory of Marxism depends on the assumption that human envy does not exist.||
+Beware the tyranny of the job description.||
+"Meeting the requirements is easier than doing the job right."|Garrett Hardin|
+When a topic is taboo, or considered "settled" and viewed off-limits, it affords someone with questions no alternatives but to seek out those who will talk about it - and those who will speak about it usually hold the minority view.||
+The "everything is connected to everything else" is nose/wedge/slope in disguise - ecolate in fashion but not numerate. Invalid when taken to extremes.||
+Our actions indicate we are willing to take risks, and thereboy invalidate the nose/wedge/slope laws or ideas.||
+"We can never do merely one thing."|Garrett Hardin|
+What parts of a problem are causes, which are symptoms, which are related, which are unrelated, which are roots, which are blockers, which are systemic, which are patterns.||
+Post-mortems: If I had time to properly analyze results and find ways to get better, I would actually BE better.||
+Those pictures that have blurbs that tell me how to think about them: how long does it take for me to disagree with the words? How much is downloaded and imprinted before that happens?||
+Forming an opinion? Understand how your own cognitive bias might be leading you astray.||
+"...the simplest thing cannot be made clear to the most intelligent man if he is firmly persuaded that he knows already..."|Leo Tolstoy|
