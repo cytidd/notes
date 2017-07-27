@@ -6,7 +6,7 @@ Start with the mistake. Don't bury it.
 
 Selling a bunch of products?
 | Do more of | Do less of |
-| ---------- | ---------- |
+| ------ | ------ |
 |Most profitable|Least profitable|
 |ERP/Automated|BRP/Bespoke|
 |Fastest|Slowest|
