@@ -4,8 +4,9 @@ A learning culture is not enough. Need a learning system. What behaviors do we w
 
 Start with the mistake. Don't bury it.
 
-Selling a bunch of products?
-| Do more of | Do less of |
+Selling a bunch of products? Follow this:
+
+|Do more of|Do less of|
 | ------ | ------ |
 |Most profitable|Least profitable|
 |ERP/Automated|BRP/Bespoke|
