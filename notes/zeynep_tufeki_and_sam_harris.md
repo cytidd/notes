@@ -28,7 +28,7 @@ Reinforcing the silos. Machine learning side effects.
 
 The true danger is no strong cultural ethos about misinformation.
 
-Ted Cruz's data people ended up being Trump's data people. They tried to use people's Facebook likes to figure out their psychological profiles. Yes, that shit is public. They can fairly accurately guess sexual orientation, place of the Big 5 of psychology: extroversion, neuroticism, etc), are you religious (and which one), whether the user specifically publicizes this or not - all from the user's public posts.
+Ted Cruz's data people ended up being Trump's data people. They tried to use people's Facebook likes to figure out their psychological profiles. Yes, that shit is public. They can fairly accurately guess sexual orientation, place of the Big 5 of psychology: (extroversion, neuroticism, etc), are you religious (and which one), whether the user specifically publicizes this or not - all from the user's public posts.
 
 This allows a group to tailor their message to the individual, and not the group. Different messaging depending on the user's profile. No longer is a TV ad that shows to a broad audience, both the intended targets AND the opposition.  Now it's a single message to a single person that the opposition will never see or be given an opportunity to counter.
 
