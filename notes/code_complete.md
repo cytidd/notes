@@ -23,10 +23,13 @@ Essential Complexity vs. Accidental Complexity
 - software projects can fail for many reasons, but if that reason is technical, it's often for uncontrolled complexity.
 
 |Essential|Accidental|
+| ------ | ------ |
 |properties that define what something is|properties that the thing just has|
 |complexity is caused by the problem to be solved|complexity is problems engineers cause and can fix|
+
+**Example: Car**
+|Essential|Accidental|
 | ------ | ------ |
-|Car||
 |doors|gull-wing|
 |engine|V8|
 |wheels|mag wheels|
