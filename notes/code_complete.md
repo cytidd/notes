@@ -14,6 +14,8 @@ Design as a "wicked problem." Problem solving it twice. Sometimes unavoidable, b
 
 It's cheaper to make mistakes in the design _process_. But not afterward.
 
+---
+
 Software's Primary Technical Imperative: managing complexity
 
 Essential Complexity vs. Accidental Complexity
@@ -34,6 +36,8 @@ Essential Complexity vs. Accidental Complexity
 |doors|gull-wing|
 |engine|V8|
 |wheels|mag wheels|
+
+---
 
 Dijkstra: no one's skill is big enough to contain a modern computer program
 
