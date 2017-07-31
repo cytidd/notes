@@ -28,6 +28,7 @@ Essential Complexity vs. Accidental Complexity
 |complexity is caused by the problem to be solved|complexity is problems engineers cause and can fix|
 
 **Example: Car**
+
 |Essential|Accidental|
 | ------ | ------ |
 |doors|gull-wing|
